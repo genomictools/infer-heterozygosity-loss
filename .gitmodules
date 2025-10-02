@@ -1,0 +1,15 @@
+[submodule "conf"]
+	path = conf
+	url = git@github.com:genomictools/conf.git
+[submodule "bin"]
+	path = bin
+	url = git@github.com:genomictools/bin.git
+	branch = infer-heterozygosity-loss
+[submodule "modules"]
+	path = modules
+	url = git@github.com:genomictools/modules.git
+	branch = infer-heterozygosity-loss
+[submodule "subworkflows"]
+	path = subworkflows
+	url = git@github.com:genomictools/subworkflows.git
+	branch = infer-heterozygosity-loss
