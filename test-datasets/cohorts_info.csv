@@ -1,0 +1,3 @@
+cohort,key,sample,sample_type,bam,bam_index,vcf,vcf_index
+test,S_para_chrXII,sample1,tumor,test-datasets/out.fs.bam,test-datasets/out.fs.bam.bai,test-datasets/out.ff.vcf.gz,test-datasets/out.ff.vcf.gz.tbi
+test,S_para_chrXII,sample1,normal,test-datasets/out.normal.bam,test-datasets/out.normal.bam.bai,test-datasets/out.normal.vcf.gz,test-datasets/out.normal.vcf.gz.tbi
